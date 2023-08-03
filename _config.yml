@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Md. Rakibul Hasan"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Prospective PhD Student in Computer Science"
+  location         : "Baltimore, MD 21234, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
