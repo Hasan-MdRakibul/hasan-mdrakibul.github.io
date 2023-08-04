@@ -84,7 +84,7 @@ author:
   avatar           : "me.jpg"
   bio              : "Prospective PhD Student in Computer Science"
   location         : "Baltimore, MD 21234, USA"
-#  employer         :
+  employer         : "TEST"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0FE1WigAAAAJ&hl=en"
   email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
