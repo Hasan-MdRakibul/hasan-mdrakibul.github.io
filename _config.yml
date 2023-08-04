@@ -86,7 +86,7 @@ author:
   location         : "Baltimore, MD 21234, USA"
 #  employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=0FE1WigAAAAJ&hl=en"
   email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
 #  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   Website           : "https://www.du.ac.bd/body/faculty_details/MIS/2293"
@@ -102,7 +102,7 @@ author:
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
-  linkedin         : "www.linkedin.com/in/md-rakibul-hasan-93050718b"
+  linkedin         : "in/md-rakibul-hasan-93050718b"
   orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
