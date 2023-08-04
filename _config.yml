@@ -84,7 +84,7 @@ author:
   avatar           : "me.jpg"
   bio              : "Prospective PhD Student in Computer Science"
   location         : "Baltimore, MD 21234, USA"
-  employer         :
+#  employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
@@ -96,7 +96,7 @@ author:
 #  flickr           :
 #  facebook         :
 # foursquare       :
-  github           : "https://github.com/Hasan-MdRakibul/hasan-mdrakibul.github.io"
+  github           : "Hasan-MdRakibul/hasan-mdrakibul.github.io"
 #  google_plus      :
 #  keybase          :
 #  instagram        :
