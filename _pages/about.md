@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## Brief Bio
 Meet Md. Rakibul Hasan, an accomplished individual with a passion for the field of Management Information Systems (MIS). He currently holds the position of Assistant Professor at the esteemed University of Dhaka, Bangladesh. Rakibul's journey in academia began at the same university, where he completed both his Bachelor's and Master's degrees in Management Information Systems.
 
 Always eager to expand his knowledge and expertise, Rakibul is currently pursuing a Master's degree in Advanced Computing at Morgan State University, located in the vibrant state of Maryland, USA. In this program, he is delving deeper into the realm of Computer Science, honing his skills to become even more proficient in his chosen field.
