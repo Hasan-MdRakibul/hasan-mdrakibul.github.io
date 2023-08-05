@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Test"
+    url: /testPage/
 
   - title: "Experience"
     url: /teaching/    
