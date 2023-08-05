@@ -84,7 +84,7 @@ author:
   avatar           : "me.jpg"
   bio              : "Prospective PhD Student in Computer Science"
   location         : "Baltimore, MD 21234, USA"
-  employer         : "TEST"
+  #employer         : "TEST"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0FE1WigAAAAJ&hl=en"
   email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
@@ -102,7 +102,7 @@ author:
 #  instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #  lastfm           :
-  linkedin         : "in/md-rakibul-hasan-93050718b"
+  linkedin         : "md-rakibul-hasan-93050718b"
   orcid            : "http://orcid.org/yourorcidurl"
 #  pinterest        :
 #  soundcloud       :
