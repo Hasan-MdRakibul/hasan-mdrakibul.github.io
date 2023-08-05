@@ -3,8 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /talks/    
 
   - title: "Experience"
     url: /teaching/    
