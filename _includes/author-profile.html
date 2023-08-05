@@ -34,8 +34,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.website %}
-        <li><a href="{{ author.website }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
+
+      {% if author.du_profile %}
+        <li><a href="{{ author.du_profile }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> DU Profile</a></li>
       {% endif %}
 
 
