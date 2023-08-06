@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### The Journey of an Aspiring Ph.D. Candidate
+## The Journey of an Aspiring Ph.D. Candidate
 In the quest for wisdom, Aristotle's timeless words, "Knowing yourself is the beginning of all wisdom," have deeply resonated with me. Reflecting on my undergraduate years, I must confess that this quote held little significance back then. I grappled with uncertainty about my life's direction and my vision for the future. However, as time passed, I embarked on a transformative journey of self-discovery that has brought me to this defining moment: seeking a **Ph.D. position in Computer Science**.
 
 My academic journey began at the University of Dhaka, Bangladesh, where I pursued both my bachelor's and master's degrees in Management Information Systems (MIS). These formative years laid the groundwork for my expertise in data science. While pursuing my degrees, I had the privilege of collaborating with distinguished professors in various consultancy projects as a data analyst, honing my skills and passion for data science.
