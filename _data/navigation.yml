@@ -3,19 +3,5 @@ main:
   - title: "Education"
     url: /Education/
 
-  - title: "Research Interests & Works"
+  - title: "Research"
     url: /research/
-
-
-
-  - title: "Experience"
-    url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
-        
-  - title: "Awards & Certifications"
-    url: /year-archive/
-
-  - title: "CV"
-    url: /cv/
