@@ -4,27 +4,29 @@ layout: archive
 permalink: /experience/
 author_profile: true
 ---
-### Teaching Interests
+#### Teaching Interests
 - Machine Learning
 - Data Science
 - Programming
 - Networking
 
-### Taught Courses
+#### Taught Courses
 - Mathematics (Linear Algebra, Calculus I, Calculus II)
 - Statistics
 - Programming with Python
 
-### Employment Records
-#### 2022 - Present
+#### Employment Records
+**2022 - Present**
 - Position: **Graduate Research Assistant**
-    - Computer Vision an Informatics Lab, Department of Computer Sciencce, Morgan State University, Baltimore, USA
-#### 2022 - Present
+  Computer Vision an Informatics Lab, Department of Computer Sciencce, Morgan State University, Baltimore, USA
+
+**2022 - Present**
 - Position: **Teaching Assistant**
-    - School of Computer Computer, Mathematical & Natural Sciences, Morgan State University, Baltimore, USA
-#### 2019 - 2022
+  School of Computer Computer, Mathematical & Natural Sciences, Morgan State University, Baltimore, USA
+
+**2019 - 2022**
 - Position: **Assistant Professor**
-  - Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
+  Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
 #### 2016 (Mar) - 2018
 - Position: **Lecturer**
   - Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
