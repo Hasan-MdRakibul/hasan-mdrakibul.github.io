@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MRH"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Md. Rakibul Hasan"
 description              : &description "personal description"

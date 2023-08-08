@@ -57,3 +57,9 @@ author_profile: true
     <br>Year: 2016
     <br>Consulting Firm: Shah and Associates (S&A)
     <br>Role: Data Analyst
+
+10. Client: International Business Forum Bangladesh (IBFB). [[Link]](https://www.ibfb.org/)
+    <br>Project Title: An Advocacy Plan for Relaxing the Restriction on Overseas Investment by Bangladeshi Entrepreneurs
+    <br>Year: 2016
+    <br>Consulting Firm: Shah and Associates (S&A)
+    <br>Role: Data Analyst
