@@ -12,6 +12,11 @@ author_profile: true
 - Natural Language Processing
 - Federated Learning
 
+**Ongoing Works**
+1. Image and Text Feature based Multimodal Learning for Multi-label Classification of Radiology Images in Biomedical Literature
+2. Interpretability of CNN Models in Multi-Labelling Medical Images.
+3. Explainable AI Tools for Transformer based Automated Medical Image Captioning System.
+
 
 **Journal Articles**
 1. **M. R. Hasan** and M. A. Hossain, "A Simplified Cybersecurity Policy Framework for the Financial Institutions in Bangladesh: A Survey of Literature," _Journal of Business Studies_, vol. 42, no. 3, pp. 41-81, December 2021. [DOI](https://doi.org/10.3329/dujbst.v42i3.65120)
@@ -31,10 +36,4 @@ author_profile: true
 1. **M. R. Hasan**, O. Layode and M. M. Rahman, "Concept Detection and Caption Prediction in ImageCLEFmedical Caption 2023 with Convolutional Neural Networks, Vision and Text-to-Text Transfer Transformers," in Working Notes of CLEF 2023 - Conference and Labs of the Evaluation Forum, Thessaloniki, 2023. [Link](https://www.dei.unipd.it/~faggioli/temp/CLEF2023-proceedings/)
 
 **Abstract Papers**
-1. **M. R. Hasan** and M. M. Rahman, Exemplifying the Automated Decision-Making Process of Medical Image Annotation Systems through Explainable AI Tools, IEEE, 2023. Abstracts of the 2023 International IEEE Conference on Systems, Man, and Cybernetics Maui, Hawaii. [Link](https://ieeesmc2023.org/abstracts/) 
-
-**Ongoing Works**
-1. Image and Text Feature based Multimodal Learning for Multi-label Classification of Radiology Images in Biomedical Literature
-2. Interpretability of CNN Models in Multi-Labelling Medical Images.
-3. Explainable AI Tools for Transformer based Automated Medical Image Captioning System.
-
+1. **M. R. Hasan** and M. M. Rahman, Exemplifying the Automated Decision-Making Process of Medical Image Annotation Systems through Explainable AI Tools, IEEE, 2023. Abstracts of the 2023 International IEEE Conference on Systems, Man, and Cybernetics Maui, Hawaii. [Link](https://ieeesmc2023.org/abstracts/)
