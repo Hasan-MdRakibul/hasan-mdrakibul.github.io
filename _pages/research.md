@@ -10,13 +10,12 @@ author_profile: true
 - Explainable AI
 - Computer Vision
 - Natural Language Processing
-- Federated Learning
 
 **Ongoing Works**
 1. Image and Text Feature based Multimodal Learning for Multi-label Classification of Radiology Images in Biomedical Literature
-2. Interpretability of CNN Models in Multi-Labelling Medical Images.
-3. Explainable AI Tools for Transformer based Automated Medical Image Captioning System.
-
+2. Interpretability of CNN and Transformer based Models in Medical Image Multi-label Classification Task.
+3. Deep Learning Models with XAI in Automated Medical Image Annotation Systems.
+4. Breast Mammogram Image Analysis for Developing a Computer Aided Detection System Using EMory BrEast imaging Dataset (EMBED).
 
 **Journal Articles**
 1. **M. R. Hasan** and M. A. Hossain, "A Simplified Cybersecurity Policy Framework for the Financial Institutions in Bangladesh: A Survey of Literature," _Journal of Business Studies_, vol. 42, no. 3, pp. 41-81, December 2021. [DOI](https://doi.org/10.3329/dujbst.v42i3.65120)
