@@ -7,13 +7,13 @@ author_profile: true
 
 **Academic Records**
 
-_2022 – 2024 (Expected)_
+_2022 – 2024
 - Degree Name: MS in Advanced Computing
 - Concentration: Computer Science
 - University: Morgan State University
 - City/Country: Baltimore, USA
 - Result: 4.00 out of 4.00 (GPA)
-- Remarks: Thesis student (Topic: Explainable AI in Interpreting CNN and Transformer-based Automated Medical Image Captioning and Multi-Labelling Systems)
+- Remarks: Thesis student (Topic: TRANSFORMER AND CONVOLUTIONAL NEURAL NETWORK BASED HYBRID APPROACHES IN MEDICAL IMAGE CLASSIFICATION, CAPTION GENERATION, AND RETRIEVAL PROCESSES)
 
 _2013 – 2014_
 - Degree Name: Master’s in Business Administration (MBA)
