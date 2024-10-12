@@ -29,3 +29,7 @@ author_profile: true
 - Cisco Certified Network Administrator (CCNA)
    - Cisco Networking Academy Program, Department of Computer Science & Engineering, Bangladesh University of Engineering & Technology (BUET)
    - June, 2012
+
+**Competitions**
+- ImageCLEFmedical 2023 (Concept Detection and Caption Prediction Tasks based on Multimodal Medical Images); Team Name: CS Morgan, Positions: 6th (Concept Detection) and 9th (Caption Prediction) [Link](https://www.imageclef.org/2023/medical/caption)
+- ImageCLEFmedical 2024 (Concept Detection and Caption Prediction Tasks based on Multimodal Medical Images); Team Name: CS Morgan, Positions: 9th (Concept Detection) and 2nd (Caption Prediction) [Link](https://www.imageclef.org/2024/medical/caption)
