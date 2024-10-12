@@ -18,15 +18,15 @@ author_profile: true
 
 **Employment Records**
 
-_2019 - present
+_2019 - present_
 - Position: **Assistant Professor**
   Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
   
-_2022 - 2024
+_2022 - 2024_
 - Position: **Graduate Research Assistant**
   Computer Vision an Informatics Lab, Department of Computer Sciencce, Morgan State University, Baltimore, USA
 
-_2022 - 2024
+_2022 - 2024_
 - Position: **Teaching Assistant**
   School of Computer Computer, Mathematical & Natural Sciences, Morgan State University, Baltimore, USA
 
