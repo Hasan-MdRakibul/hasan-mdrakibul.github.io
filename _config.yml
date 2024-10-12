@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Md. Rakibul Hasan"
   avatar           : "me.jpg"
-  bio              : "Prospective PhD Student in Computer Science"
-  location         : "Baltimore, MD 21234, USA"
+  bio              : "Prospective PhD Student in Computer Science or Information Systems"
+  location         : "Department of Management Information Systems, Fculty of Business Studies, University of Dhaka, Dhaka-1000, Bangladesh"
   #employer         : "TEST"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0FE1WigAAAAJ&hl=en"
-  email            : "mdhas1@morgan.edu, hasan.mr@du.ac.bd"
+  email            : "hasan.mr@du.ac.bd, mdhas1@morgan.edu"
   du_profile           : "https://www.du.ac.bd/body/faculty_details/MIS/2293"
 #  Website           : "https://www.du.ac.bd/body/faculty_details/MIS/2293"
 #  bitbucket        :
