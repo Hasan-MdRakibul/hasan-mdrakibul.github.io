@@ -10,7 +10,7 @@ author_profile: true
 - R, Python, Java, C++ (Programming Languages)
 - SQL, PL/SQL, Oracle 12c (Database Design and Admin)
 - Packet Tracer (Network Design and Admin)
-- TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Seaborn, matplotlib, statsmodels (Packages of Python) SPSS, AMOS, WinBUGS, OpenBUGS, SmartPLS, MPlus
+- TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas, Seaborn, matplotlib, statsmodels (Packages of Python), SPSS, AMOS, WinBUGS, OpenBUGS, SmartPLS, MPlus
 
 **Awards & Scholarships**
 - Dean’s Award and Merit Award (2012, 2013), University of Dhaka, Bangladesh
