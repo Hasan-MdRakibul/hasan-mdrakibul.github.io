@@ -11,23 +11,24 @@ author_profile: true
 - Networking
 
 **Taught Courses**
-- Mathematics (Linear Algebra, Calculus I, Calculus II)
 - Statistics
 - Programming with Python
+- Mathematics for Business & Economics
+- Systems Analysis and Design
 
 **Employment Records**
 
-_2022 - Present_
+_2019 - present
+- Position: **Assistant Professor**
+  Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
+  
+_2022 - 2024
 - Position: **Graduate Research Assistant**
   Computer Vision an Informatics Lab, Department of Computer Sciencce, Morgan State University, Baltimore, USA
 
-_2022 - Present_
+_2022 - 2024
 - Position: **Teaching Assistant**
   School of Computer Computer, Mathematical & Natural Sciences, Morgan State University, Baltimore, USA
-
-_2019 - 2022_
-- Position: **Assistant Professor**
-  Department of Management Information Systems (MIS), University of Dhaka, Dhaka, Bangladesh
 
 _2016 (Mar) - 2018_
 - Position: **Lecturer**
