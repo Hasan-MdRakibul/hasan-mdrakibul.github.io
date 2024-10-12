@@ -14,7 +14,8 @@ author_profile: true
 
 **Awards & Scholarships**
 - Dean’s Award and Merit Award (2012, 2013), University of Dhaka, Bangladesh
-- Trailblazer Award for Outstanding Performance, Morgan State University, USA
+- Trailblazer Award for Outstanding Performance (2023, 2024), School of Computing, Mathematics, and Natural Sciences, Morgan State University, USA
+- IBM Masters Fellowship Award, 2023
 
 **Certifications**
 - Oracle Database 11g: Administration
